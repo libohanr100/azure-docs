@@ -34,6 +34,8 @@ landingContent:
           url: speech-synthesis-markup.md
         - text: Synthesize large text samples with the Long Audio API
           url: long-audio-api.md
+        - text: Build custom cross-lingual neural voice
+          url: how-to-custom-voice-create-crosslingual-voice.md
     - linkListType: concept
       links:
         - text: What is Custom Neural Voice?
