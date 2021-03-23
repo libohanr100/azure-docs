@@ -16,7 +16,7 @@ ms.author: bohli
 
 You could start with [Get started with Custom Voice](how-to-custom-voice.md) to setup you azure account and create project.
  
-To build a cross-lingual custom voice, you could follow [Create a Custom Voice](how-to-custom-voice-create-voice.md) for [Data preparation](how-to-custom-voice-prepare-data.md), [Datasets uploading](how-to-custom-voice-create-voice.md#upload-your-datasets), [Model testing](how-to-custom-voice-create-voice.md#test-your-voice-model), [Voice endpoint creation](how-to-custom-voice-create-voice.md#create-and-use-a-custom-voice-endpoint). The main difference compared with primary language voice building is voice creation flow.
+To build a cross-lingual custom voice, you could follow [Create a Custom Voice](how-to-custom-voice-create-voice.md) for [Data preparation](how-to-custom-voice-prepare-data.md), [Datasets uploading](how-to-custom-voice-create-voice.md#upload-your-datasets), [Model testing](how-to-custom-voice-create-voice.md#test-your-voice-model), [Voice endpoint creation](how-to-custom-voice-create-voice.md#create-and-use-a-custom-voice-endpoint). The main difference compared with primary language voice building is voice creation flow like below:
 
 ## Build your custom voice model
 
