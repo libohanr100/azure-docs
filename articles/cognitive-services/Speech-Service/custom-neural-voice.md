@@ -26,7 +26,7 @@ The realistic and natural sounding voice of Custom Neural Voice can
 represent brands, personify machines, and allow users to interact with
 applications conversationally in a natural way.
 
-An additional capability on Custom Neural Voice which allows customers to train a highly natural brand voice using neural TTS technology to speak a secondary language from self-serve. The key difference between current GA self-serve and new preview feature. The user onboarding and voice model creation flow is the same as CNV. The key feature of the new 'cross-lingual' capability is that Customer can choose a different target language than the data language when training a model, e.g. use Chinese voice data to train a model that can speak English.
+An additional capability on Custom Neural Voice which allows customers to train a highly natural brand voice using neural TTS technology to speak a secondary language from self-serve. The user onboarding flow and speech synthesize [REST API](./rest-text-to-speech.md) are the same as CNV. The key difference is the [voice model creation flow](./how-to-custom-voice-create-crosslingual-voice.md). The key feature of the new 'cross-lingual' capability is that Customer can choose a different target language than the data language when training a model, e.g. use Chinese voice data to train a model that can speak English.
 
 > [!NOTE]
 > The Custom Neural Voice feature requires registration, and access to it is limited based upon Microsoft’s eligibility and use criteria. Customers who wish to use this feature are required to register their use cases through the [intake form](https://aka.ms/customneural).

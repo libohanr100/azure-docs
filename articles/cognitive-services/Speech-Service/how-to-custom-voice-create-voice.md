@@ -85,7 +85,9 @@ After your dataset has been validated, you can use it to build your custom voice
     > [!NOTE]
     > If you would like to train a neural voice, you must specify a voice talent profile with the audio consent file provided of the voice talent acknowledging to use his/her speech data to train a custom voice model. Custom Neural Voice is available with limited access. Make sure you understand the [responsible AI requirements](/legal/cognitive-services/speech-service/custom-neural-voice/limited-access-custom-neural-voice?context=%2fazure%2fcognitive-services%2fspeech-service%2fcontext%2fcontext) and [apply the access here](https://aka.ms/customneural). 
     
-    On this page you can also select to upload your script for testing. The testing script must be a txt file, less than 1Mb. Supported encoding format includes ANSI/ASCII, UTF-8, UTF-8-BOM, UTF-16-LE, or UTF-16-BE. Each paragraph of the utterance will result in a separate audio. If you want to combine all sentences into one audio, make them in one paragraph. 
+    On this page you can also select to upload your script for testing. The testing script must be a txt file, less than 1Mb. Supported encoding format includes ANSI/ASCII, UTF-8, UTF-8-BOM, UTF-16-LE, or UTF-16-BE. Each paragraph of the utterance will result in a separate audio. If you want to combine all sentences into one audio, make them in one paragraph.
+
+    If you want to build a cross-lingual voice. You should select "Neural" training method and select "Cross lingual adaptation neural voice" training recipe, you also need to select a target locale of your cross-lingual model. The target locale means the secondary language of your neural voice. 
 
 6. Click **Train** to begin creating your voice model.
 
