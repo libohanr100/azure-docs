@@ -14,7 +14,7 @@ ms.author: erhopf
 
 # Create a Cross-lingual Custom Voice
 
-To build a cross-lingual custom voice, you could follow [Create a Custom Voice](how-to-custom-voice-create-voice.md) for [Data preparation](how-to-custom-voice-prepare-data.md), [Datasets uploading](how-to-custom-voice-create-voice.md#upload-your-datasets), [Model testing](how-to-custom-voice-create-voice.md#test-your-voice-model), [Voice endpoint creation] (how-to-custom-voice-create-voice.md#test-your-voice-model). The main difference compared with primary language voice building is voice creation flow.
+To build a cross-lingual custom voice, you could follow [Create a Custom Voice](how-to-custom-voice-create-voice.md) for [Data preparation](how-to-custom-voice-prepare-data.md), [Datasets uploading](how-to-custom-voice-create-voice.md#upload-your-datasets), [Model testing](how-to-custom-voice-create-voice.md#test-your-voice-model), [Voice endpoint creation] (how-to-custom-voice-create-voice.md#create-and-use-a-custom-voice-endpoint). The main difference compared with primary language voice building is voice creation flow.
 
 ## Build your custom voice model
 
