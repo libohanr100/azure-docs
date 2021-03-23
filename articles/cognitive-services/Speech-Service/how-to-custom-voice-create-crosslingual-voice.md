@@ -1,19 +1,21 @@
 ---
-title: "Create a Custom Voice - Speech service"
+title: "Create a Custom Cross-lingual Voice - Speech service"
 titleSuffix: Azure Cognitive Services
 description: "When you're ready to upload your data, go to the Custom Voice portal. Create or select a Custom Voice project. The project must share the right language/locale and the gender properties as the data you intend to use for your voice training."
 services: cognitive-services
-author: erhopf
-manager: nitinme
+author: bohli
+manager: szhao
 ms.service: cognitive-services
 ms.subservice: speech-service
 ms.topic: conceptual
-ms.date: 11/04/2019
-ms.author: erhopf
+ms.date: 03/23/2021
+ms.author: bohli
 ---
 
 # Create a Cross-lingual Custom Voice
 
+You could start with [Get started with Custom Voice](how-to-custom-voice.md) to setup you azure account and create project.
+ 
 To build a cross-lingual custom voice, you could follow [Create a Custom Voice](how-to-custom-voice-create-voice.md) for [Data preparation](how-to-custom-voice-prepare-data.md), [Datasets uploading](how-to-custom-voice-create-voice.md#upload-your-datasets), [Model testing](how-to-custom-voice-create-voice.md#test-your-voice-model), [Voice endpoint creation](how-to-custom-voice-create-voice.md#create-and-use-a-custom-voice-endpoint). The main difference compared with primary language voice building is voice creation flow.
 
 ## Build your custom voice model
